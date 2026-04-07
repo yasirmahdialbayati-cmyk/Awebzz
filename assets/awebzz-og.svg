@@ -1,0 +1,76 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="88" y1="56" x2="1098" y2="602" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16397D"/>
+      <stop offset="0.58" stop-color="#0B1C47"/>
+      <stop offset="1" stop-color="#071126"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="760" y1="158" x2="1030" y2="508" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#314C98"/>
+      <stop offset="1" stop-color="#10234F"/>
+    </linearGradient>
+    <linearGradient id="button" x1="120" y1="456" x2="420" y2="556" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F88EA"/>
+      <stop offset="1" stop-color="#8EA9FF"/>
+    </linearGradient>
+    <radialGradient id="glowOne" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(146 118) rotate(22.5) scale(226 182)">
+      <stop stop-color="#4CA8FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4CA8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTwo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1012 120) rotate(20) scale(198 166)">
+      <stop stop-color="#8EA9FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8EA9FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="630" rx="36" fill="url(#glowOne)"/>
+  <rect width="1200" height="630" rx="36" fill="url(#glowTwo)"/>
+
+  <rect x="56" y="48" width="1088" height="84" rx="42" fill="#10224F" fill-opacity="0.86" stroke="white" stroke-opacity="0.08"/>
+  <text x="92" y="101" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-2.4">Awebzz</text>
+
+  <rect x="330" y="60" width="44" height="44" rx="14" fill="#8EA9FF"/>
+  <rect x="342" y="72" width="20" height="18" rx="5" stroke="white" stroke-width="3"/>
+  <path d="M342 80H362" stroke="white" stroke-width="3"/>
+  <path d="M349 94L362 104" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M362 90V104H348" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="90" y="210" fill="#8EA9FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">MODERN WEB DESIGN FOR GROWING BUSINESSES</text>
+  <text x="88" y="310" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">Modern websites for</text>
+  <text x="88" y="402" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">modern businesses.</text>
+  <text x="90" y="470" fill="#D7E2FF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">
+    Clean design, clear messaging, stronger trust, and
+  </text>
+  <text x="90" y="510" fill="#D7E2FF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">
+    support after launch for businesses that want to stand out online.
+  </text>
+
+  <rect x="88" y="540" width="240" height="54" rx="27" fill="url(#button)"/>
+  <text x="136" y="575" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Get Your Website</text>
+
+  <g transform="translate(702 164)">
+    <rect width="420" height="336" rx="28" fill="url(#panel)" stroke="white" stroke-opacity="0.08"/>
+    <rect x="26" y="24" width="10" height="10" rx="5" fill="white" fill-opacity="0.26"/>
+    <rect x="44" y="24" width="10" height="10" rx="5" fill="white" fill-opacity="0.18"/>
+    <rect x="62" y="24" width="10" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+
+    <rect x="250" y="28" width="140" height="110" rx="24" fill="#0B1D49" stroke="#8EA9FF" stroke-opacity="0.18"/>
+    <text x="282" y="78" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">5 sec</text>
+    <text x="282" y="114" fill="#D7E2FF" font-family="Arial, Helvetica, sans-serif" font-size="22">Clear first impression</text>
+
+    <rect x="26" y="86" width="80" height="210" rx="22" fill="white" fill-opacity="0.07"/>
+    <rect x="130" y="88" width="174" height="42" rx="21" fill="#8EA9FF" fill-opacity="0.18"/>
+    <text x="150" y="115" fill="#F5F8FF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Premium homepage</text>
+
+    <rect x="130" y="152" width="246" height="72" rx="22" fill="white" fill-opacity="0.08"/>
+    <text x="154" y="184" fill="#8EA9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">SERVICE WEBSITE</text>
+    <text x="154" y="210" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Northline Roofing</text>
+
+    <rect x="130" y="244" width="174" height="62" rx="20" fill="white" fill-opacity="0.07"/>
+    <rect x="322" y="244" width="54" height="62" rx="20" fill="white" fill-opacity="0.07"/>
+
+    <rect x="130" y="274" width="178" height="46" rx="23" fill="#0A1B45"/>
+    <text x="156" y="304" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Mobile-first</text>
+  </g>
+</svg>

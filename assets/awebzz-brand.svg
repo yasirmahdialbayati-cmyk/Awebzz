@@ -1,0 +1,29 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text
+    x="28"
+    y="150"
+    fill="white"
+    font-family="Manrope, Arial, Helvetica, sans-serif"
+    font-size="120"
+    font-weight="700"
+    letter-spacing="-5"
+  >
+    Awebzz
+  </text>
+  <circle cx="558" cy="108" r="58" stroke="#1DD6E5" stroke-width="7"/>
+  <g stroke="#1DD6E5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M507 87C519 76 537 70 558 70C579 70 597 76 609 87"/>
+    <path d="M500 109H582"/>
+    <path d="M509 131H565"/>
+    <path d="M558 71C547 81 540 95 540 110C540 125 547 139 558 149"/>
+    <path d="M576 75C586 85 592 97 594 111"/>
+    <path d="M513 87C506 96 502 106 502 117C503 128 507 138 514 146"/>
+  </g>
+  <path
+    d="M566 106L606 118L589 127L600 157L583 163L573 133L555 149L566 106Z"
+    fill="#1DD6E5"
+    stroke="#1DD6E5"
+    stroke-width="3"
+    stroke-linejoin="round"
+  />
+</svg>

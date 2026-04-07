@@ -1,0 +1,17 @@
+<svg width="176" height="176" viewBox="0 0 176 176" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="awebzzGradient" x1="30" y1="24" x2="146" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97AEFF"/>
+      <stop offset="1" stop-color="#6B84E8"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="140" height="140" rx="36" fill="url(#awebzzGradient)"/>
+  <rect x="40" y="42" width="96" height="92" rx="24" fill="#0C173A" fill-opacity="0.18" stroke="#EEF3FF" stroke-opacity="0.18" stroke-width="3"/>
+  <path d="M40 66H136" stroke="#EEF3FF" stroke-opacity="0.22" stroke-width="4"/>
+  <circle cx="54" cy="54" r="4" fill="#F7F9FF"/>
+  <circle cx="66" cy="54" r="4" fill="#F7F9FF" fill-opacity="0.72"/>
+  <circle cx="78" cy="54" r="4" fill="#F7F9FF" fill-opacity="0.48"/>
+  <rect x="54" y="84" width="34" height="7" rx="3.5" fill="#EEF3FF"/>
+  <rect x="54" y="98" width="24" height="7" rx="3.5" fill="#EEF3FF" fill-opacity="0.76"/>
+  <path d="M91 80L122 92L109 99L118 122L108 127L100 105L88 115L91 80Z" fill="#FFFFFF"/>
+</svg>
